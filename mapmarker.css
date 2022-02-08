@@ -34,9 +34,9 @@
   /* perspective: 1000px; */
   /* perspective-origin: left; */
 }
-/* * .frame .center #flipped {
+* .frame .center #flipped {
   display: none;
-} */
+}
 * .frame .center .land {
   fill: #2196F3;
 }
